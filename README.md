@@ -44,7 +44,7 @@ Indicators: Evaluating if the presence of a co-applicant or specific housing typ
 
 * ## 🚀 Getting Started
   
-1. Clone the repository: `git clone https://github.com/yourusername/credit-eda.git`
+1. Clone the repository: `git clone https://github.com/nidhishrworks-rgb/credit-eda.git`
  
 2. Install dependencies: `pip install -r requirements.txt`
  
