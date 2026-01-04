@@ -1,10 +1,3 @@
-### 🔍 Project Overview
-**Credit EDA:** Analyzing loan application data to identify patterns of **default risk**. 
-
-* **Goal:** Explore demographics, income, and credit history.
-* **Tools:** Python (Pandas, Seaborn).
-* **Impact:** Uncover variables influencing repayment to minimize financial loss and optimize loan approval strategies.
-
 * ### 🔍 Project Overview
 **Credit EDA:** Analyzing loan application data to identify patterns of **default risk**. 
 
