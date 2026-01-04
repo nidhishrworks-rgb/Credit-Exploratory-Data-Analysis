@@ -48,4 +48,4 @@ Indicators: Evaluating if the presence of a co-applicant or specific housing typ
  
 2. Install dependencies: `pip install -r requirements.txt`
  
-3. Open the notebook: `jupyter notebook notebooks/credit_eda.ipynb`
+3. Open the notebook:  'https://colab.research.google.com/drive/1KUuJeLoDJZbdzXy4oJx0DUajkhtvalMJ?usp=sharing'
