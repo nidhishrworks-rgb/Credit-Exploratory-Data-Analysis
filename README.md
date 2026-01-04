@@ -19,6 +19,7 @@ Data Transformation: Standardized categorical variables and converted "Days of B
 
 Feature Engineering: Created new ratios, such as Income-to-Annuity and Credit-to-Goods-Price, to better understand client leverage
 
+
 📈 Analysis Focus Areas
 We explored the data through three main lenses:
 
