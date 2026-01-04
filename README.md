@@ -1,12 +1,13 @@
-* ### 🔍 Project Overview
+### 🔍 Project Overview
 **Credit EDA:** Analyzing loan application data to identify patterns of **default risk**. 
 
 * **Goal:** Explore demographics, income, and credit history.
 * **Tools:** Python (Pandas, Seaborn).
 * **Impact:** Uncover variables influencing repayment to minimize financial loss and optimize loan approval strategies.
 
-* 🛠️ Data Processing & Cleaning
+ 🛠️ Data Processing & Cleaning
 Before analysis, the dataset underwent several preprocessing steps to ensure accuracy:
+
 Missing Value Analysis: Identified columns with high null percentages and applied appropriate imputation or removal.
 Outlier Detection: Used box plots to identify and handle anomalies in Income and Credit Amount.
 Data Transformation: Standardized categorical variables and converted "Days of Birth" into readable "Age" columns.
